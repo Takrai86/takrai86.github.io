@@ -1,0 +1,18 @@
+
+h1 {    /* Clamp(min, Preferred, Max) */
+	font-size: clamp(1.5rem, 5vw, 6rem);
+	text-align: centre;
+}
+
+body{
+	background-image: url("homebgnd1.jpg");
+	background-repeat: no-repeat;
+	background-position: centre;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #630e0e;
+	font-size: 3rem;
+	text-align: center;
+    }
+
+
